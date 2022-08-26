@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ben Elwood
+- 👋 Hi, I’m Melody Elwood
 - 👀 I’m interested in tabletop game design, programing, XR, and many other things.
 - 🌱 I’m currently studying Computer Science and Design at the University of Auckland.
 - 💞️ I’m looking to collaborate on anything I find interesting.
